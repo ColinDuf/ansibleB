@@ -1,0 +1,7 @@
+local:
+  hosts:
+    local:
+  vars:
+    ansible_connection: local
+    ansible_user : colin
+    external_ip: 54.246.77.162
